@@ -17,7 +17,7 @@ ul {
 }
 .menu {
     display: flex;
-    flex-direction: row;
+    flex-direction: row;    
 }   
 
 .menu a {
@@ -48,7 +48,11 @@ a:hover {
 .text {
     margin: 0;
 }
+
 .name {
-    margin: 0;
+    margin: 0px;
     color: #52ACC5;
+}
+.vp-container {
+    margin-top: 2rem;
 }
